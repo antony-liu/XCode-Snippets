@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>tvvar</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>&lt;UITableViewDataSource, UITableViewDelegate&gt;
+{
+    NSInteger curPageIndex;
+    NSString *jsonCachePath;
+}
+@property (strong,nonatomic) NSMutableArray *datas;</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>5332074D-92A9-491A-B7A0-46A5676CE489</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Controller需要实现的协议和程序中使用的变量</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>UITableView Protocol</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
