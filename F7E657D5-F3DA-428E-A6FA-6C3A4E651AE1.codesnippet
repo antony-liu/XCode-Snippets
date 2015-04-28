@@ -14,6 +14,8 @@
 	<string>F7E657D5-F3DA-428E-A6FA-6C3A4E651AE1</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>NSArray property with protocol</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Property NSArray</string>
 	<key>IDECodeSnippetUserSnippet</key>

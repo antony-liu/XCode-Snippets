@@ -14,6 +14,8 @@
 	<string>94778020-DAF4-403E-9C0F-C9F737290310</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>strong ref property declaration</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Property Strong</string>
 	<key>IDECodeSnippetUserSnippet</key>

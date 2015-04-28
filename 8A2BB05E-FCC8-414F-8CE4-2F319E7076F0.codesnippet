@@ -14,6 +14,8 @@
 	<string>8A2BB05E-FCC8-414F-8CE4-2F319E7076F0</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>assign property declaration</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Property Assign</string>
 	<key>IDECodeSnippetUserSnippet</key>

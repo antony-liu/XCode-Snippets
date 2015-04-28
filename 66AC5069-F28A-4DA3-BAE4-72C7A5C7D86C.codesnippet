@@ -14,6 +14,8 @@
 	<string>66AC5069-F28A-4DA3-BAE4-72C7A5C7D86C</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>integer property declaration</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Property Integer</string>
 	<key>IDECodeSnippetUserSnippet</key>
