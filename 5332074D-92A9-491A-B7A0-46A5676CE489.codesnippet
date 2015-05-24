@@ -11,10 +11,9 @@
 	<key>IDECodeSnippetContents</key>
 	<string>&lt;UITableViewDataSource, UITableViewDelegate&gt;
 {
-    NSInteger curPageIndex;
-    NSString *jsonCachePath;
 }
-@property (strong,nonatomic) NSMutableArray *datas;</string>
+@property (strong,nonatomic) NSMutableArray *&lt;#var#&gt;;
+@property (weak, nonatomic) IBOutlet UITableView *tableView;</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>5332074D-92A9-491A-B7A0-46A5676CE489</string>
 	<key>IDECodeSnippetLanguage</key>
